@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Associate Professor at the State Key Laboratory of Transvascular Implantation Devices, Zhejiang University, collaborating closely with [Academician Jianan Wang](https://baike.baidu.com/item/%E7%8E%8B%E5%BB%BA%E5%AE%89/10767262?fr=ge_ala). My research intersects AI-based bioinformatics and single-cell/bulk OMICs data mining. I am passionate about developing intelligent tools for drug target discovery via bioinformatics and systems biology methodologies, aiming to establish a new standard in omics data processing and drug target discovery—a field crucial to modern precision medicine, drug R&D.
+I am currently an Associate Professor at the State Key Laboratory of Transvascular Implantation Devices, Zhejiang University, collaborating closely with [Academician Jianan Wang](https://baike.baidu.com/item/%E7%8E%8B%E5%BB%BA%E5%AE%89/10767262?fr=ge_ala), [Prof. Xinyang Hu](https://person.zju.edu.cn/huxinyang/). My research intersects AI-based bioinformatics and single-cell/bulk OMICs data mining. I am passionate about developing intelligent tools for drug target discovery via bioinformatics and systems biology methodologies, aiming to establish a new standard in omics data processing and drug target discovery—a field crucial to modern precision medicine, drug R&D.
 
 A data-driven personal website
 ======
