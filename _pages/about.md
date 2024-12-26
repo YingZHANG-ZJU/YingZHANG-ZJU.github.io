@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Associate Professor at the State Key Laboratory of Transvascular Implantation Devices, Zhejiang University, collaborating closely with [Academician Jianan Wang](https://baike.baidu.com/item/%E7%8E%8B%E5%BB%BA%E5%AE%89/10767262?fr=ge_ala), [Prof. Xinyang Hu](https://person.zju.edu.cn/huxinyang/). My research intersects AI-based bioinformatics and single-cell/bulk OMICs data mining. I am passionate about developing intelligent tools for drug target discovery via bioinformatics and systems biology methodologies, aiming to establish a new standard in omics data processing and drug target discovery—a field crucial to modern precision medicine, drug R&D.
+I am currently an Associate Professor at the State Key Laboratory of Transvascular Implantation Devices, Zhejiang University, collaborating closely with [Academician Jianan WANG](https://baike.baidu.com/item/%E7%8E%8B%E5%BB%BA%E5%AE%89/10767262?fr=ge_ala), [Prof. Xinyang HU](https://person.zju.edu.cn/huxinyang/). My research intersects AI-based bioinformatics and single-cell/bulk OMICs data mining. I am passionate about developing intelligent tools for drug target discovery via bioinformatics and system biology methodologies, aiming to establish a new standard in omics data processing and drug target discovery—a field crucial to modern precision medicine, drug R&D.
+
+During my doctoral studies, I have the privilege of collaborating with Alibaba Future Digital Health Research Center on AI-based single cell studies, where I had the invaluable opportunity to work alongside [Prof. Feng ZHU](https://person.zju.edu.cn/zhufeng/) and [Dir. Zhaorong LI](https://baike.baidu.com/item/%E6%9D%8E%E5%85%86%E8%9E%8D/64986090?fr=ge_ala). Before that, I earned my bachelor’s degree at China Pharmaceutical University.
+
 
 A data-driven personal website
 ======
