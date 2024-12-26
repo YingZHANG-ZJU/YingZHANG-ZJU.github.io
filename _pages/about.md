@@ -18,7 +18,7 @@ News
 ======
 <table>
   <tr>
-    <td style="width: 100px; vertical-align: top; font-size: 0.8em;"><strong>06/2024</strong></td>
+    <td style="width: 100px; vertical-align: top; font-size: 1.5em;"><strong>06/2024</strong></td>
     <td>:mortar_board: I successfully defended my PhD thesis!</td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Selected Publications
      
 3. <u>Zhang Y</u>, … Zhu F†. CellSTAR: a comprehensive resource for single-cell transcriptomic annotation (2023). ***Nucleic Acids Research*** (JCR Q1, CAS Q1 Top, IF of the publication year 14.9)
    - :trophy: Reported in Tech Media/News: BGI-Shenzhen, CNGBdb
-   - :earth_asia: [Free open server resource](https://idrblab.org/anpela/)
+   - :earth_asia: [Free open server resource](https://cellstar.idrblab.net/)
 5. <u>Zhang Y#</u>, … Zhu F†. Pharmacometabonomics: data processing and statistical analysis (2021). ***Briefings in Bioinformatics*** (JCR Q1, CAS Q1 Top, IF of the publication year 13.9)
 
 
