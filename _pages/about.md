@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/5416f16e-b4d9-4e0a-a6f2-254591381aba)---
 permalink: /
 title: "About Me"
 author_profile: true
@@ -32,3 +32,20 @@ News
     <td>I will deliver an expert invited report at the 6<sup>th</sup> National Conference on Analytical Pharmacology.</td>
   </tr>
 </table>
+
+Selected Publications
+======
+1. <u>Zhang Y#</u>, … Zhu F*. Optimization of metabolomic data processing using NOREVA (2022). ***Nature Protocols*** (JCR Q1, CAS Q1 Top, IF of the publication year 14.8)
+   - ESI Highly Cited Paper (Top 1%)
+   - Featured Article of Nature Protocols 2022
+   - Highlighted by Nature Editorial Board
+   - Reported in Tech Media/News: Beijing Academy of AI, DrugAI, Neurons AI, Tencent Cloud, eBiotrade, ECHEMI, India Education Diary, Mirage News, NSF@Zhejiang, ZJU Newsroom, Zhejiang University, CPS@ZJU, Chinese ZhiHu…
+     
+2. <u>Zhang Y</u>, … Zhu F*. ANPELA: significantly enhanced quantification tool for cytometry-based single-cell proteomics (2023). ***Advanced Science*** (JCR Q1, CAS Q1 Top, IF of the publication year 15.1)
+   - Cover Article of Advanced Science
+     
+3. <u>Zhang Y</u>, … Zhu F*. CellSTAR: a comprehensive resource for single-cell transcriptomic annotation (2023). ***Nucleic Acids Research*** (JCR Q1, CAS Q1 Top, IF of the publication year 14.9)
+   
+4. <u>Zhang Y#</u>, … Zhu F*. Pharmacometabonomics: data processing and statistical analysis (2021). ***Briefings in Bioinformatics*** (JCR Q1, CAS Q1 Top, IF of the publication year 13.9)
+
+
