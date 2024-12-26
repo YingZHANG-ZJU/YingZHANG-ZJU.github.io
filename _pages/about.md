@@ -15,7 +15,7 @@ During my doctoral studies, I have the privilege of collaborating with Alibaba F
 
 News
 ======
-<table style="font-size: 0.7em;">
+<table style="font-size: 0.9em;">
   <tr>
     <td style="width: 100px; vertical-align: top;"><strong>06/2024</strong></td>
     <td>:mortar_board: I successfully defended my PhD thesis!</td>
