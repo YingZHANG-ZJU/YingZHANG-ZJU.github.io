@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 #title                    : "Your Name / Site Title"
-title                    : "Personal Homepage/ Prof. Ying ZHANG"
+title                    : "Prof. Ying ZHANG @ ZJU"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "MeZhangYing.png"
-  name             : "Your Sidebar Name"
+  name             : "Ying ZHANG"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
