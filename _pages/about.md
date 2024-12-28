@@ -49,7 +49,7 @@ Selected Publications
    - :trophy: Cover Article of Advanced Science
    - :earth_asia: [Free open server resource](https://idrblab.org/anpela/)
      
-3. <u>Zhang Y</u>, … Zhu F†. CellSTAR: a comprehensive resource for single-cell transcriptomic annotation (2023). ***Nucleic Acids Research*** (JCR Q1, CAS Q1 Top, IF of the publication year 14.9)
+3. <u>Zhang Y</u>, … Zhu F†. CellSTAR: a comprehensive resource for single-cell transcriptomic annotation (2024). ***Nucleic Acids Research*** (JCR Q1, CAS Q1 Top, IF of the publication year 14.9)
    - :trophy: Reported in Tech Media/News: BGI-Shenzhen, CNGBdb
    - :earth_asia: [Free open server resource](https://cellstar.idrblab.net/)
 5. <u>Zhang Y#</u>, … Zhu F†. Pharmacometabonomics: data processing and statistical analysis (2021). ***Briefings in Bioinformatics*** (JCR Q1, CAS Q1 Top, IF of the publication year 13.9)
