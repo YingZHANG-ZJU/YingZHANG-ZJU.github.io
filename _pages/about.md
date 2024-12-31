@@ -17,12 +17,12 @@ News
 ======
 <table style="font-size: 0.9em;">
   <tr>
-    <td style="width: 100px; vertical-align: top;"><strong>10/2024</strong></td>
-    <td>:speaking_head: I will deliver an invited expert report at the First Primate Biomedical Academic Annual Conference.</td>
+    <td style="width: 100px; vertical-align: top;"><strong>01/2025</strong></td>
+    <td>:trophy: I am invited to join the Editorial Board of the Journal of Molecular and Cellular Cardiology.</td>
   </tr>
   <tr>
-    <td style="width: 100px; vertical-align: top;"><strong>06/2024</strong></td>
-    <td>:trophy: I am invited to join the Editorial Board of the Journal of Molecular and Cellular Cardiology.</td>
+    <td style="width: 100px; vertical-align: top;"><strong>10/2024</strong></td>
+    <td>:speaking_head: I will deliver an invited expert report at the First Primate Biomedical Academic Annual Conference.</td>
   </tr>
   <tr>
     <td style="width: 100px; vertical-align: top;"><strong>06/2024</strong></td>
