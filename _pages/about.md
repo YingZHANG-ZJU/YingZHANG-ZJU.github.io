@@ -18,7 +18,7 @@ News
 <table style="font-size: 0.9em;">
   <tr>
     <td style="width: 100px; vertical-align: top;"><strong>01/2025</strong></td>
-    <td>:trophy: I am invited to join the Editorial Board of the Journal of Molecular and Cellular Cardiology.</td>
+    <td>:trophy: Happy New Year! I am invited to join the Editorial Board of the Journal of Molecular and Cellular Cardiology.</td>
   </tr>
   <tr>
     <td style="width: 100px; vertical-align: top;"><strong>10/2024</strong></td>
